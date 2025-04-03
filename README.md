@@ -17,7 +17,7 @@ This project provides a script to bundle a specified Node.js module into a singl
 
 - fs
 - webpack
-- webpack-cil
+- webpack-cli
 - child_process
 
 ## Installation
